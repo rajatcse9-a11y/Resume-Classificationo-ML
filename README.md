@@ -1,4 +1,4 @@
-# 💳 Credit Scoring Prediction Model
+# 💳 Smart Resume Screening using Machine Leanring Model
 
 ## 📌 Project Overview
 This project predicts whether a Input  the personal data and predict the professnal work using Machine Learning.
@@ -8,7 +8,7 @@ The goal is to help check CV and find the professnal work
 ---
 
 ## 📊 Dataset Information
-Dataset used: Resume dataset 
+Dataset used: Resume  Screening 
 
 ### Features include:
 -ID
